@@ -1,3 +1,24 @@
-# marcebollin
+<img src="https://marcebollin.com/marcebollin-draw-1.jpg" width="96" height="96" align="left" alt="marcebollin" />
 
-This README is regenerated automatically from [marcebollin.com](https://marcebollin.com) by the `sync-readme.yml` workflow.
+# Marcelo León
+
+Developer who enjoys a lot of things but loves interfaces. Co-founder of [Paddit](https://paddit.club) — the easiest way to manage sports complexes and book games. Frontend Technical Lead at Cinepolis (IA Interactive).
+
+<br clear="both" />
+
+### Projects
+
+- [articles.sh](https://articles.sh) — I built my own library because nothing out there really worked for what I needed.
+- [colors.marcebollin.com](https://colors.marcebollin.com) — A small archive for browsing Sanzo Wada color combinations and copying palette values.
+
+### Writing
+
+- [Feeling Pixels](https://marcebollin.com/feeling-pixels) — Apr 18, 2026
+
+### Find me
+
+[marcebollin.com](https://marcebollin.com) · [github](https://github.com/marcebollin) · [twitter](https://x.com/marcebollin) · [linkedin](https://www.linkedin.com/in/marcebollin/) · [bluesky](https://bsky.app/profile/marcebollin.com)
+
+---
+
+This README auto-updates from [marcebollin.com](https://marcebollin.com).
