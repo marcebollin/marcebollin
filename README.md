@@ -1,5 +1,4 @@
 <img src="https://marcebollin.com/marcebollin-draw-1.jpg" width="56" height="56" alt="marcebollin" />
-<br clear="both" />
 
 # Marcelo León
 
