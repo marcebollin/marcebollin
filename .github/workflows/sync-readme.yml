@@ -1,0 +1,45 @@
+name: Sync README from marcebollin.com
+
+on:
+  schedule:
+    # Daily at 09:00 UTC
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Checkout website source (public)
+        uses: actions/checkout@v4
+        with:
+          repository: marcebollin/marcebollin-web
+          path: web
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Generate README
+        run: node --experimental-strip-types web/scripts/generate-readme.ts --out README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet README.md; then
+            echo "README is up to date."
+          else
+            git add README.md
+            git commit -m "chore: sync README from marcebollin.com"
+            git push
+          fi
