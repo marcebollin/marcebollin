@@ -16,13 +16,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout profile repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Checkout website source (public)
-        uses: actions/checkout@v4
+      - name: Checkout website source (private)
+        uses: actions/checkout@v5
         with:
           repository: marcebollin/marcebollin-web
           path: web
+          token: ${{ secrets.WEBSITE_PAT }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
