@@ -1,11 +1,6 @@
 <img src="https://marcebollin.com/marcebollin-draw-1.jpg" width="96" height="96" align="left" alt="marcebollin" />
-
 # Marcelo León
-
 Developer who enjoys a lot of things but loves interfaces. Co-founder of [Paddit](https://paddit.club) — the easiest way to manage sports complexes and book games. Frontend Technical Lead at Cinepolis (IA Interactive).
-
-<br clear="both" />
-
 ### Projects
 
 - [articles.sh](https://articles.sh) — I built my own library because nothing out there really worked for what I needed.
@@ -17,7 +12,7 @@ Developer who enjoys a lot of things but loves interfaces. Co-founder of [Paddit
 
 ### Find me
 
-[marcebollin.com](https://marcebollin.com) · [github](https://github.com/marcebollin) · [twitter](https://x.com/marcebollin) · [linkedin](https://www.linkedin.com/in/marcebollin/) · [bluesky](https://bsky.app/profile/marcebollin.com)
+[marcebollin.com](https://marcebollin.com) · [twitter](https://x.com/marcebollin) · [linkedin](https://www.linkedin.com/in/marcebollin/) · [bluesky](https://bsky.app/profile/marcebollin.com)
 
 ---
 
