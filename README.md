@@ -1,6 +1,11 @@
 <img src="https://marcebollin.com/marcebollin-draw-1.jpg" width="96" height="96" align="left" alt="marcebollin" />
+<br clear="both" />
+<br clear="both" />
+
 # Marcelo León
+
 Developer who enjoys a lot of things but loves interfaces. Co-founder of [Paddit](https://paddit.club) — the easiest way to manage sports complexes and book games. Frontend Technical Lead at Cinepolis (IA Interactive).
+
 ### Projects
 
 - [articles.sh](https://articles.sh) — I built my own library because nothing out there really worked for what I needed.
