@@ -13,6 +13,11 @@ Developer who enjoys a lot of things but loves interfaces. Co-founder of [Paddit
 
 - [Feeling Pixels](https://marcebollin.com/feeling-pixels) — Apr 18, 2026
 
+### Explorations
+
+- [Hand controls](https://marcebollin.com/lab/hand-controls) — A two-hand interface for pointing, clicking, pulling, choosing tools, and scrolling.
+- [Feedback button](https://marcebollin.com/lab/feedback-button) — A small drawn-text button that turns email into copied feedback.
+
 ### Find me
 
 [marcebollin.com](https://marcebollin.com) · [twitter](https://x.com/marcebollin) · [linkedin](https://www.linkedin.com/in/marcebollin/) · [bluesky](https://bsky.app/profile/marcebollin.com)
